@@ -18,7 +18,7 @@ Select a voice (if multiple voices are available).
 Click the Listen button to hear the text spoken aloud.
 
 ⚡ Installation
-Clone this repository: clone https://github.com/your-username/text-to-speech-converter.git
+Clone this repository.
 Open index.html in your browser.
 Start converting text to speech!
 
